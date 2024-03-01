@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Contact-CMS-preview/static/css/main.6982eb8b.css",
+    "main.js": "/Contact-CMS-preview/static/js/main.f9268632.js",
+    "index.html": "/Contact-CMS-preview/index.html",
+    "main.6982eb8b.css.map": "/Contact-CMS-preview/static/css/main.6982eb8b.css.map",
+    "main.f9268632.js.map": "/Contact-CMS-preview/static/js/main.f9268632.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6982eb8b.css",
+    "static/js/main.f9268632.js"
+  ]
+}
